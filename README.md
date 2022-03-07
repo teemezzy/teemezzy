@@ -1,4 +1,6 @@
-Hi, I'm Toromo 👋
+Hello there! 
+
+I am Toromo 👋
 
 🔭 I’m currently working on html, css, javascript, React, Content.
 
