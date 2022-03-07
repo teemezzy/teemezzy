@@ -2,15 +2,15 @@ Hello there!
 
 I am Toromo 👋
 
-🔭 I’m currently working on html, css, javascript, React, Content.
+🌱 I am a Frontend Developer and languages like Javascript, and a framework React...
 
-🌱 I’m currently learning javascript,React,frontend Development,Design
+🔭 I work with languages like HTML, CSS, Javascript, React, APIs, REDUX, Content and more...
 
-👯 I’m looking to collaborate on creating contents and projects...
+👯 I’m looking to collaborate on creating huge projects, both small, medium and large projects...
 
-🤔 I’m looking for help with javascript
+🤔 I am always looking to learn more and gain more knowledge. (React Native, Vue.js, Svelte, Typescript and more...)
 
-💬 Ask me about html, css, javascript.
+💬 Ask me about HTML, CSS, Javascript, React and more...
 
 ⚡ Fun fact:
 
