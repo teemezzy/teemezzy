@@ -8,10 +8,10 @@ I am Toromo 👋
 
 👯 I’m looking to collaborate on creating huge projects, both small, medium and large projects...
 
-🤔 I am always looking to learn more and gain more knowledge. (React Native, Vue.js, Svelte, Typescript and more...)
+🤔 I am always looking to learn more and gain more knowledge. (React.js, React Native, Vue.js, Svelte, Typescript and more...)
 
-💬 Ask me about HTML, CSS, Javascript, React and more...
+💬 Ask me about HTML, CSS, Javascript, React.js and more...
 
 ⚡ Fun fact:
 
-🐦 twitter | 👔 linkedin
+🐦 [Twitter](https://twitter.com/teemezzy) | 👔 [Linkedin](https://linkedin.com/in/toromo)
