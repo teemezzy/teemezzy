@@ -10,8 +10,8 @@ I am Toromo 👋
 
 🤔 I am always looking to learn more and gain more knowledge. (React.js, React Native, Vue.js, Svelte, Typescript and more...)
 
-💬 Ask me about HTML, CSS, Javascript, React.js and more...
+💬 Ask me about HTML, CSS, Javascript, React.js, Redux, Context API, React Hooks and more...
 
 ⚡ Fun fact:
 
-🐦 [Twitter](https://twitter.com/teemezzy) | 👔 [Linkedin](https://linkedin.com/in/toromo)
+🐦 [Twitter](https://twitter.com/teemezzy) | 👔 [Linkedin](https://linkedin.com/in/toromo) [My Personal Portfolio](https://torth.dev)
