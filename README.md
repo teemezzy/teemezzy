@@ -14,4 +14,4 @@ I am Toromo 👋
 
 ⚡ Fun fact:
 
-🐦 [Twitter](https://twitter.com/teemezzy) | 👔 [Linkedin](https://linkedin.com/in/toromo) [My Personal Portfolio](https://torth.dev)
+🐦 [Twitter](https://twitter.com/teemezzy) | 👔 [Linkedin](https://linkedin.com/in/toromo) | [My Personal Portfolio](https://torth.dev)
