@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning Android Development with Java and Kotlin.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
-- 👨‍💻 All of my projects are available here [![T.A - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://torth.dev/)
-- 📫 How to reach me [![T.A - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
+- 👨‍💻 All of my projects are available here [![T.A - Portfolio](https://img.shields.io/static/v1?label=T.A&message=Portfolio&color=2ea44f)](https://torth.dev/)
+- 📫 How to reach me [![T.A - Gmail](https://img.shields.io/static/v1?label=T.A&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
 
 <br/>
 
@@ -24,7 +24,6 @@
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width=40" height=40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=40" height=40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width=40" height=40"/> </a>
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width=40" height=40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width=40" height=40"/> </a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width=40" height=40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width=40" height=40"/> </a>
@@ -50,10 +49,10 @@
 
 ## Connect with me
 
-[![T.A - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/toromo/)
-[![T.A - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/teemezzy)
-[![T.A - Code Sandbox](https://img.shields.io/static/v1?label=K.S&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/torth)
-[![T.A - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
+[![T.A - LinkedIn](https://img.shields.io/static/v1?label=T.A&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/toromo/)
+[![T.A - Twitter](https://img.shields.io/static/v1?label=T.A&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/teemezzy)
+[![T.A - Code Sandbox](https://img.shields.io/static/v1?label=T.A&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/torth)
+[![T.A - Hashnode](https://img.shields.io/static/v1?label=T.A&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
 
 <br/>
 
