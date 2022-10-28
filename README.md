@@ -59,4 +59,4 @@
 
 ### 🎉 Github Accolades
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teemezzy&margin-w=10&margin-h=10" alt="TEEMEZZY" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teemezzy&margin-w=10&margin-h=10" alt="teemezzy" /></a> </p>
