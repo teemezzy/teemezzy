@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning Android Development with Java and Kotlin.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
-- 👨‍💻 All of my projects are available here [![K.S - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://torth.dev/)
-- 📫 How to reach me [![K.S - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
+- 👨‍💻 All of my projects are available here [![T.A - Portfolio](https://img.shields.io/static/v1?label=K.S&message=Portfolio&color=2ea44f)](https://torth.dev/)
+- 📫 How to reach me [![T.A - Gmail](https://img.shields.io/static/v1?label=K.S&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
 
 <br/>
 
@@ -42,21 +42,21 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![kinxlo's Stats](https://github-readme-stats.vercel.app/api?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![kinxlo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinxlo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![kinxlo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinxlo&theme=gotham&hide_border=true)
+![teemezzy's Stats](https://github-readme-stats.vercel.app/api?username=teemezzy&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![teemezzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teemezzy&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![teemezzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teemezzy&theme=gotham&hide_border=true)
 
 <br/>
 
 ## Connect with me
 
-[![K.S - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/toromo/)
-[![K.S - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/teemezzy)
-[![K.S - Code Sandbox](https://img.shields.io/static/v1?label=K.S&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/torth)
-[![K.S - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
+[![T.A - LinkedIn](https://img.shields.io/static/v1?label=K.S&message=LinkedIn&color=%230A66C2&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/toromo/)
+[![T.A - Twitter](https://img.shields.io/static/v1?label=K.S&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=Twitter)](https://twitter.com/teemezzy)
+[![T.A - Code Sandbox](https://img.shields.io/static/v1?label=K.S&message=Code+Sandbox&color=%23151515&style=for-the-badge&logo=CodeSandbox)](https://codesandbox.com/torth)
+[![T.A - Hashnode](https://img.shields.io/static/v1?label=K.S&message=Hashnode&color=%232962FF&style=for-the-badge&logo=Hashnode)](https://hashnode.com/@GuyInAChair)
 
 <br/>
 
 ### 🎉 Github Accolades
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinxlo&margin-w=10&margin-h=10" alt="kinxlo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teemezzy&margin-w=10&margin-h=10" alt="TEEMEZZY" /></a> </p>
