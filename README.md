@@ -6,7 +6,8 @@
 
 <br/>
 
-- 🌱 I’m currently learning Android Development with Java and Kotlin.
+- 🌱 I am currently learning Data Science, Machine Learning and Artifical Intelligence with Python.
+- 🌱 I am also working on Python and Node.js for full stack and React Native for Andriod and IOS Apps.
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
 - 👨‍💻 All of my projects are available here [![T.A - Portfolio](https://img.shields.io/static/v1?label=T.A&message=Portfolio&color=2ea44f)](https://torth.dev/)
 - 📫 How to reach me [![T.A - Gmail](https://img.shields.io/static/v1?label=T.A&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
