@@ -1,14 +1,14 @@
 # <div align = "center">🧐 Hi👋, I'm Toromo Adegboyega.
 
-<h3 align="center">Frontend Engineer | Instructor</h3>
-<p align="center">💬 Ask me about reactjs, nextjs, redux and all things frontend.</p>
+<h3 align="center">Fullstack Engineer | Instructor</h3>
+<p align="center">💬 Ask me about reactjs, nextjs, redux, Nodejs, and all things fullstack.</p>
 </div>
 
 <br/>
 
-- 🌱 I am currently learning Data Science, Machine Learning and Artifical Intelligence with Python.
-- 🌱 I am also working on Python, GoLang and Node.js for full stack and React Native for Andriod and IOS Apps.
-- 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
+- 🌱 I am currently learning Data Science, Machine Learning, and Artificial Intelligence with Python.
+- 🌱 I am also working on Python, GoLang, and Node.js for full stack and React Native for Andriod and IOS Apps.
+- 👯 I’m looking to collaborate on more open-source projects and build sustainable tech communities.
 - 👨‍💻 All of my projects are available here [![T.A - Portfolio](https://img.shields.io/static/v1?label=T.A&message=Portfolio&color=2ea44f)](https://torth.dev/)
 - 📫 How to reach me [![T.A - Gmail](https://img.shields.io/static/v1?label=T.A&message=Gmail&color=2ea44f)](mailto:toromo.ade06@gmail.com)
 
